@@ -1,4 +1,4 @@
-# Project 1: C Programming & Embedded Systems Fundamentals
+# Project 1: C Programming Formative
 
 This repository contains three C programs and one Arduino simulation created for Project 1[cite: 10]. It covers basic C programming, control flow, functions, recursion, and embedded hardware logic[cite: 10, 13, 17, 22].
 
